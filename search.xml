@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2026/05/07/hello-world/"/>
+      <url>/2026/05/07/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2025/05/07/wo-de-di-yi-pian-bo-ke/"/>
+      <url>/2025/05/07/wo-de-di-yi-pian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>时光辗转，终于拥有了属于自己的一方小天地 —— 这个简简单单的个人博客，算是我在网络世界里留下的专属角落。不用迎合繁杂的社交节奏，不用刻意伪装情绪，只想在这里记录生活、沉淀心情，把日常里的点滴感悟、细碎美好都好好珍藏。<br>一路走来，总觉得生活需要一个可以安放思绪的地方。平日里忙碌于日常琐事，被学习和生活的节奏推着往前走，很多瞬间的感慨、突然冒出的想法，往往转瞬即逝，来不及细细回味。而搭建这个博客，于我而言，不仅是一次尝试新鲜事物的体验，更是给自己留一份慢下来的底气。在这里，我可以随心所欲写下所见所闻、所思所感，不用拘泥格式，不用纠结文笔，只以最真实的状态与自己对话。<br>生活本就是由无数平凡的瞬间拼凑而成。清晨推开窗扑面而来的清风，午后窗边洒落的一缕暖阳，傍晚天边渐变的晚霞，还有闲暇时安静看书、放空发呆的时光，这些看似微不足道的小美好，其实都是生活赠予我们的温柔。往后我想在博客里，记录下这些温柔片刻：偶尔是生活里的小确幸，偶尔是成长路上的小迷茫，偶尔是读到好书的心得体会，也会分享一些日常感悟与细碎心事。<br>人总要学会和自己独处，学会在喧嚣中守住内心的平静。现在的我们总是被短视频、碎片化信息包围，很难静下心来好好沉淀。而写作与记录，是最好的沉淀方式。敲下文字的过程，也是梳理情绪、理清思绪的过程，那些想不通的烦恼、藏在心底的情绪，落笔之后往往会豁然开朗。<br>这个博客没有华丽的修饰，没有刻意的迎合，只有最真实的自我表达。往后的日子里，我会坚持在这里更新，把生活的烟火气、成长的点点滴滴都一一记录。不求有人刻意驻足，只愿多年后回头翻看，能清晰记得此刻的心境与时光。<br>也愿每一个偶然闯入这里的人，都能在文字里找到一丝共鸣，卸下疲惫，收获一份平静与治愈。往后余生，以文字为伴，以时光为笺，慢慢记录，慢慢成长，不负生活，不负自己。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
