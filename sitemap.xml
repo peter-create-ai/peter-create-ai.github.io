@@ -177,6 +177,13 @@
   </url>
   
   <url>
+    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -185,13 +192,6 @@
   
   <url>
     <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
