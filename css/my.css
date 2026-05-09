@@ -12,9 +12,9 @@
     background: linear-gradient(45deg, rgba(194, 24, 91, 0.75) 0%, rgba(194, 24, 91, 0.6) 100%) !important;
 }
 
-/* 绿色主题替换为浅蓝色 - 导航栏 */
+/* 绿色主题替换为黑色 - 导航栏 */
 nav, nav.bg-color, #headNav {
-    background-color: #2196F3 !important;
+    background-color: #000000 !important;
 }
 
 /* 引用块 */
