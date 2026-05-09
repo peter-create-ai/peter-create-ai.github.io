@@ -140,6 +140,17 @@
   
   <li class="hide-on-med-and-down nav-item">
     
+    <a href="/jianjie" class="waves-effect waves-light">
+      
+      <i class="fas fa-id-card" style="zoom: 0.6;"></i>
+      
+      <span>简介</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
     <a href="/contact" class="waves-effect waves-light">
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
@@ -240,6 +251,17 @@
 			    <i class="fa-fw fas fa-user-circle"></i>
 			
 			关于
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/jianjie" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-id-card"></i>
+			
+			简介
 		</a>
           
         </li>
@@ -406,47 +428,111 @@
 
 
 <main class="content">
-    <div class="container">
-        <div class="tags-list">
-            <h2 style="margin-bottom: 30px;">所有标签</h2>
-            
-            <div class="tag-item" style="margin-bottom: 20px;">
-                <a href="/tags/ChatGPT/" style="font-size: 20px; color: #42b983; text-decoration: none;">
-                    ChatGPT
-                    <span style="color: #999; font-size: 14px; margin-left: 10px;">(1篇)</span>
-                </a>
+
+    
+
+<div id="tags" class="container chip-container">
+    <div class="card">
+        <div class="card-content">
+            <div class="tag-title center-align">
+                <i class="fas fa-tags"></i>&nbsp;&nbsp;文章标签
             </div>
-            
-            <div class="tag-item" style="margin-bottom: 20px;">
-                <a href="/tags/AI%E5%B7%A5%E5%85%B7/" style="font-size: 20px; color: #42b983; text-decoration: none;">
-                    AI工具
-                    <span style="color: #999; font-size: 14px; margin-left: 10px;">(2篇)</span>
+            <div class="tag-chips">
+                
+                
+                <a href="/tags/ChatGPT/" title="ChatGPT: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="ChatGPT" style="background-color: #F9EBEA;">ChatGPT
+                        <span class="tag-length">1</span>
+                    </span>
                 </a>
-            </div>
-            
-            <div class="tag-item" style="margin-bottom: 20px;">
-                <a href="/tags/%E6%95%99%E7%A8%8B/" style="font-size: 20px; color: #42b983; text-decoration: none;">
-                    教程
-                    <span style="color: #999; font-size: 14px; margin-left: 10px;">(2篇)</span>
+                
+                
+                <a href="/tags/OpenAI/" title="OpenAI: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="OpenAI" style="background-color: #F5EEF8;">OpenAI
+                        <span class="tag-length">1</span>
+                    </span>
                 </a>
-            </div>
-            
-            <div class="tag-item" style="margin-bottom: 20px;">
-                <a href="/tags/Claude/" style="font-size: 20px; color: #42b983; text-decoration: none;">
-                    Claude
-                    <span style="color: #999; font-size: 14px; margin-left: 10px;">(1篇)</span>
+                
+                
+                <a href="/tags/AI/" title="AI: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="AI" style="background-color: #D5F5E3;">AI
+                        <span class="tag-length">1</span>
+                    </span>
                 </a>
-            </div>
-            
-            <div class="tag-item" style="margin-bottom: 20px;">
-                <a href="/tags/%E9%9A%8F%E7%AC%94/" style="font-size: 20px; color: #42b983; text-decoration: none;">
-                    随笔
-                    <span style="color: #999; font-size: 14px; margin-left: 10px;">(1篇)</span>
+                
+                
+                <a href="/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/" title="学习方法: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="学习方法" style="background-color: #E8F8F5;">学习方法
+                        <span class="tag-length">1</span>
+                    </span>
                 </a>
+                
+                
+                <a href="/tags/Claude/" title="Claude: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="Claude" style="background-color: #FEF9E7;">Claude
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/AI%E6%95%99%E7%A8%8B/" title="AI教程: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="AI教程" style="background-color: #F8F9F9;">AI教程
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E9%9A%8F%E7%AC%94/" title="随笔: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="随笔" style="background-color: #82E0AA;">随笔
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
             </div>
-            
         </div>
     </div>
+</div>
+
+    
+    <link rel="stylesheet" type="text/css" href="/libs/jqcloud/jqcloud.css">
+<style type="text/css">
+    #tag-wordcloud {
+        width: 100%;
+        height: 300px;
+    }
+</style>
+
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="tag-wordcloud" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/libs/jqcloud/jqcloud-1.0.4.min.js"></script>
+<script type="text/javascript">
+    
+
+    $('#tag-wordcloud').jQCloud([{"text":"ChatGPT","weight":1,"link":"/tags/ChatGPT/"},{"text":"OpenAI","weight":1,"link":"/tags/OpenAI/"},{"text":"AI","weight":1,"link":"/tags/AI/"},{"text":"学习方法","weight":1,"link":"/tags/学习方法/"},{"text":"Claude","weight":1,"link":"/tags/Claude/"},{"text":"AI教程","weight":1,"link":"/tags/AI教程/"},{"text":"随笔","weight":1,"link":"/tags/随笔/"}], {
+        autoResize: true
+    });
+</script>
+
+    
+
 </main>
 
 
@@ -467,7 +553,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">887</span>
+                        class="white-color">1.3k</span>
             
             
             

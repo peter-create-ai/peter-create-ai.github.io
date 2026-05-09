@@ -140,6 +140,17 @@
   
   <li class="hide-on-med-and-down nav-item">
     
+    <a href="/jianjie" class="waves-effect waves-light">
+      
+      <i class="fas fa-id-card" style="zoom: 0.6;"></i>
+      
+      <span>简介</span>
+    </a>
+    
+  </li>
+  
+  <li class="hide-on-med-and-down nav-item">
+    
     <a href="/contact" class="waves-effect waves-light">
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
@@ -240,6 +251,17 @@
 			    <i class="fa-fw fas fa-user-circle"></i>
 			
 			关于
+		</a>
+          
+        </li>
+        
+        <li class="m-nav-item">
+	  
+		<a href="/jianjie" class="waves-effect waves-light">
+			
+			    <i class="fa-fw fas fa-id-card"></i>
+			
+			简介
 		</a>
           
         </li>
@@ -360,10 +382,125 @@
 
 
 
-<main class="post-container content">
-
+<main class="post-with-sidebar content">
     
-    <div class="row">
+
+<aside id="categorySidebar" class="category-sidebar">
+    <div class="sidebar-header">
+        <h5><i class="fas fa-bookmark"></i> 文章分类</h5>
+        <button id="sidebarClose" class="sidebar-close hide-on-large-only">&times;</button>
+    </div>
+    <div class="sidebar-body">
+        <div class="sidebar-tree">
+            
+            
+            <details class="sidebar-cat" data-cat="AI教程" >
+                <summary class="sidebar-summary ">
+                    <span class="sidebar-triangle"></span>
+                    <i class="fas fa-folder sidebar-folder"></i>
+                    <span class="sidebar-cat-name">AI教程</span>
+                    <span class="sidebar-count">3</span>
+                </summary>
+
+                <!-- Direct posts under this category -->
+                
+                <ul class="sidebar-articles">
+                    
+                    <li>
+                        <a href="/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/" class="">
+                            AI 时代的学习方法
+                            
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+
+                <!-- Subcategories -->
+                
+                
+                <details class="sidebar-subcat" data-cat="AI教程/ChatGPT教程" >
+                    <summary class="sidebar-summary sidebar-subcat-summary ">
+                        <span class="sidebar-triangle"></span>
+                        <i class="fas fa-folder sidebar-folder"></i>
+                        <span class="sidebar-cat-name">ChatGPT教程</span>
+                        <span class="sidebar-count">1</span>
+                    </summary>
+                    <ul class="sidebar-articles">
+                        
+                        <li>
+                            <a href="/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/" class="">
+                                ChatGPT 从入门到精通
+                                
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </details>
+                
+                
+                <details class="sidebar-subcat" data-cat="AI教程/Claude教程" >
+                    <summary class="sidebar-summary sidebar-subcat-summary ">
+                        <span class="sidebar-triangle"></span>
+                        <i class="fas fa-folder sidebar-folder"></i>
+                        <span class="sidebar-cat-name">Claude教程</span>
+                        <span class="sidebar-count">1</span>
+                    </summary>
+                    <ul class="sidebar-articles">
+                        
+                        <li>
+                            <a href="/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/" class="">
+                                Claude 保姆级下载和安装教程
+                                
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </details>
+                
+            </details>
+            
+            
+            <details class="sidebar-cat" data-cat="生活" >
+                <summary class="sidebar-summary ">
+                    <span class="sidebar-triangle"></span>
+                    <i class="fas fa-folder sidebar-folder"></i>
+                    <span class="sidebar-cat-name">生活</span>
+                    <span class="sidebar-count">1</span>
+                </summary>
+
+                <!-- Direct posts under this category -->
+                
+                <ul class="sidebar-articles">
+                    
+                    <li>
+                        <a href="/2025/05/07/wo-de-di-yi-pian-bo-ke/" class="">
+                            我的第一篇博客
+                            
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+
+                <!-- Subcategories -->
+                
+            </details>
+            
+        </div>
+    </div>
+</aside>
+
+<div id="sidebarOverlay" class="sidebar-overlay hide-on-large-only"></div>
+
+<button id="sidebarToggle" class="sidebar-toggle-btn hide-on-large-only">
+    <i class="fas fa-bookmark"></i> 分类
+</button>
+
+
+    <div class="post-main">
+        
+        <div class="row">
     <div id="main-content" class="col s12 m12 l9">
         <!-- 文章内容详情 -->
 <div id="artDetail">
@@ -551,13 +688,13 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2026/05/09/chatgpt-bao-mu-ji-jiao-cheng/">
+                <a href="/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="ChatGPT保姆级使用教程">
+                        <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Claude 保姆级下载和安装教程">
                         
-                        <span class="card-title">ChatGPT保姆级使用教程</span>
+                        <span class="card-title">Claude 保姆级下载和安装教程</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -568,7 +705,7 @@
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2026-05-09
+                            <i class="far fa-clock fa-fw icon-date"></i>2026-05-08
                         </span>
                         <span class="publish-author">
                             
@@ -578,8 +715,8 @@
                                     AI教程
                                 </a>
                             
-                            <a href="/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/" class="post-category">
-                                    ChatGPT教程
+                            <a href="/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/" class="post-category">
+                                    Claude教程
                                 </a>
                             
                             
@@ -589,16 +726,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/ChatGPT/">
-                        <span class="chip bg-color">ChatGPT</span>
+                    <a href="/tags/Claude/">
+                        <span class="chip bg-color">Claude</span>
                     </a>
                     
-                    <a href="/tags/AI%E5%B7%A5%E5%85%B7/">
-                        <span class="chip bg-color">AI工具</span>
-                    </a>
-                    
-                    <a href="/tags/%E6%95%99%E7%A8%8B/">
-                        <span class="chip bg-color">教程</span>
+                    <a href="/tags/AI%E6%95%99%E7%A8%8B/">
+                        <span class="chip bg-color">AI教程</span>
                     </a>
                     
                 </div>
@@ -801,8 +934,8 @@
     });
 </script>
 
-    
-
+        
+    </div>
 </main>
 
 
@@ -825,7 +958,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">887</span>
+                        class="white-color">1.3k</span>
             
             
             

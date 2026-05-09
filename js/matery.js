@@ -169,6 +169,102 @@ $(function () {
 
     // 初始化加载 tooltipped.
     $('.tooltipped').tooltip();
+
+    /* 文章页分类侧边栏 - 移动端切换 */
+    var $sidebar = $('#categorySidebar');
+    var $overlay = $('#sidebarOverlay');
+    var $toggleBtn = $('#sidebarToggle');
+    var $closeBtn = $('#sidebarClose');
+
+    function openSidebar() {
+        $sidebar.addClass('open');
+        $overlay.addClass('show');
+        $('body').css('overflow', 'hidden');
+    }
+    function closeSidebar() {
+        $sidebar.removeClass('open');
+        $overlay.removeClass('show');
+        $('body').css('overflow', '');
+    }
+
+    $toggleBtn.on('click', function(e) {
+        e.stopPropagation();
+        if ($sidebar.hasClass('open')) {
+            closeSidebar();
+        } else {
+            openSidebar();
+        }
+    });
+
+    $closeBtn.on('click', function(e) {
+        e.stopPropagation();
+        closeSidebar();
+    });
+
+    $overlay.on('click', function() {
+        closeSidebar();
+    });
+
+    $(document).on('click', function(e) {
+        if ($(window).width() <= 992) {
+            if ($sidebar.hasClass('open') &&
+                !$(e.target).closest('#categorySidebar').length &&
+                !$(e.target).closest('#sidebarToggle').length) {
+                closeSidebar();
+            }
+        }
+    });
+
+    /* 侧边栏展开状态持久化：记住用户手动展开/收起，切换文章后保持 */
+    (function() {
+        var STORAGE_KEY = 'sidebar_cat_states';
+        var $details = $('.sidebar-cat[data-cat], .sidebar-subcat[data-cat]');
+
+        // 恢复之前保存的状态
+        var saved;
+        try {
+            saved = JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+        } catch(e) {
+            saved = {};
+        }
+
+        $details.each(function() {
+            var $el = $(this);
+            var name = $el.attr('data-cat');
+            if (saved.hasOwnProperty(name)) {
+                // 有保存记录就用保存的，覆盖默认值
+                $el.prop('open', saved[name]);
+                // 同步更新 active 样式
+                if (saved[name]) {
+                    $el.children('summary').addClass('active');
+                } else {
+                    $el.children('summary').removeClass('active');
+                }
+            } else {
+                // 首次访问，保存当前默认状态
+                saved[name] = $el.prop('open');
+            }
+        });
+
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(saved)); } catch(e) {}
+
+        // 监听用户手动切换，实时保存
+        $details.on('toggle', function() {
+            var name = $(this).attr('data-cat');
+            var isOpen = $(this).prop('open');
+            try {
+                var s = JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+                s[name] = isOpen;
+                localStorage.setItem(STORAGE_KEY, JSON.stringify(s));
+            } catch(e) {}
+            // 同步 active 样式
+            if (isOpen) {
+                $(this).children('summary').addClass('active');
+            } else {
+                $(this).children('summary').removeClass('active');
+            }
+        });
+    })();
 });
 
 //黑夜模式提醒开启功能
