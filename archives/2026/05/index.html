@@ -378,13 +378,17 @@
 
 
 <script>
-    // 固定使用 featureimages/16.jpg 作为 banner 图
-    var bannerUrl = "/medias/featureimages/16.jpg";
+    // 在16.jpg和5.jpg之间随机选择banner图
+    var bannerImages = ['16.jpg', '5.jpg'];
+    var randomIndex = Math.floor(Math.random() * bannerImages.length);
+    var bannerUrl = "/medias/featureimages/" + bannerImages[randomIndex];
     $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
 <script>
-    // 固定使用 featureimages/16.jpg 作为 banner 图
-    var bannerUrl = "/medias/featureimages/16.jpg";
+    // 在16.jpg和5.jpg之间随机选择banner图
+    var bannerImages = ['16.jpg', '5.jpg'];
+    var randomIndex = Math.floor(Math.random() * bannerImages.length);
+    var bannerUrl = "/medias/featureimages/" + bannerImages[randomIndex];
     $('.bg-cover.about-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
 

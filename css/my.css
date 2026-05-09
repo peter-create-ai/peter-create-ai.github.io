@@ -1,10 +1,5 @@
 /* Here is your custom css styles. */
 
-/* 深色半透明导航栏 */
-nav, nav.bg-color, #headNav {
-    background-color: rgba(0, 0, 0, 0.7) !important;
-}
-
 /* 紫色渐变遮罩 */
 .bg-cover.theme-purple:after {
     background: rgba(103, 58, 183, 0.7) !important;
