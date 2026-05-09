@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ryan&#39;s Blog</title>
-    <link>https://peter-create-ai.github.io/</link>
+    <link>https://ryancoreai.github.io/</link>
     
-    <atom:link href="https://peter-create-ai.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ryancoreai.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>A simple personal blog for recording and sharing.</description>
     <pubDate>Sat, 09 May 2026 11:56:26 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>AI 时代的学习方法</title>
-      <link>https://peter-create-ai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</link>
-      <guid>https://peter-create-ai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</guid>
+      <link>https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</link>
+      <guid>https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
       
         
@@ -29,22 +29,22 @@
       <content:encoded><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>AI 技术正在深刻改变我们的学习方式。掌握正确的学习方法，可以让我们在 AI 时代更高效地获取知识。</p><h2 id="利用-AI-辅助学习"><a href="#利用-AI-辅助学习" class="headerlink" title="利用 AI 辅助学习"></a>利用 AI 辅助学习</h2><p>AI 工具可以帮助我们快速总结文章、翻译资料、生成练习题等。但要注意批判性思维，不能完全依赖 AI。</p><h2 id="构建知识体系"><a href="#构建知识体系" class="headerlink" title="构建知识体系"></a>构建知识体系</h2><p>在 AI 时代，更重要的是建立系统化的知识框架，而不只是记住零散的信息。AI 可以帮助我们整理和关联知识点。</p><h2 id="实践是关键"><a href="#实践是关键" class="headerlink" title="实践是关键"></a>实践是关键</h2><p>无论 AI 多强大，真正的理解和掌握还需要通过实践。多动手、多思考、多总结，才能把知识内化为自己的能力。</p>]]></content:encoded>
       
       
-      <category domain="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
+      <category domain="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
       
       
-      <category domain="https://peter-create-ai.github.io/tags/AI/">AI</category>
+      <category domain="https://ryancoreai.github.io/tags/AI/">AI</category>
       
-      <category domain="https://peter-create-ai.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/">学习方法</category>
+      <category domain="https://ryancoreai.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/">学习方法</category>
       
       
-      <comments>https://peter-create-ai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/#disqus_thread</comments>
+      <comments>https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>ChatGPT 从入门到精通</title>
-      <link>https://peter-create-ai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</link>
-      <guid>https://peter-create-ai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</guid>
+      <link>https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</link>
+      <guid>https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</guid>
       <pubDate>Fri, 08 May 2026 06:00:00 GMT</pubDate>
       
         
@@ -58,24 +58,24 @@
       <content:encoded><![CDATA[<h2 id="什么是-ChatGPT"><a href="#什么是-ChatGPT" class="headerlink" title="什么是 ChatGPT"></a>什么是 ChatGPT</h2><p>ChatGPT 是 OpenAI 开发的大型语言模型，能够理解和生成自然语言文本，帮助用户完成写作、编程、翻译等多种任务。</p><h2 id="注册和登录"><a href="#注册和登录" class="headerlink" title="注册和登录"></a>注册和登录</h2><p>访问 OpenAI 官网，使用邮箱或 Google 账号注册。注意需要使用支持的地区网络环境。</p><h2 id="基础使用技巧"><a href="#基础使用技巧" class="headerlink" title="基础使用技巧"></a>基础使用技巧</h2><p>学会使用提示词（Prompt）是与 ChatGPT 高效沟通的关键。好的提示词应该清晰、具体、有上下文。</p><h2 id="进阶功能"><a href="#进阶功能" class="headerlink" title="进阶功能"></a>进阶功能</h2><p>ChatGPT Plus 订阅用户可以使用 GPT-4 模型，获得更强的推理能力和更准确的回答。</p>]]></content:encoded>
       
       
-      <category domain="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
+      <category domain="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
       
-      <category domain="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/">ChatGPT教程</category>
-      
-      
-      <category domain="https://peter-create-ai.github.io/tags/ChatGPT/">ChatGPT</category>
-      
-      <category domain="https://peter-create-ai.github.io/tags/OpenAI/">OpenAI</category>
+      <category domain="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/">ChatGPT教程</category>
       
       
-      <comments>https://peter-create-ai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/#disqus_thread</comments>
+      <category domain="https://ryancoreai.github.io/tags/ChatGPT/">ChatGPT</category>
+      
+      <category domain="https://ryancoreai.github.io/tags/OpenAI/">OpenAI</category>
+      
+      
+      <comments>https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Claude 保姆级下载和安装教程</title>
-      <link>https://peter-create-ai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</link>
-      <guid>https://peter-create-ai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</guid>
+      <link>https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</link>
+      <guid>https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</guid>
       <pubDate>Fri, 08 May 2026 02:00:00 GMT</pubDate>
       
         
@@ -89,24 +89,24 @@
       <content:encoded><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Claude 是 Anthropic 公司开发的一款强大 AI 助手。本教程将手把手教你如何下载、安装和注册 Claude，让你快速上手使用。</p><h2 id="第一步：注册-Anthropic-账号"><a href="#第一步：注册-Anthropic-账号" class="headerlink" title="第一步：注册 Anthropic 账号"></a>第一步：注册 Anthropic 账号</h2><p>首先访问 Anthropic 官网，点击 Sign Up 注册账号。填写邮箱、设置密码，完成邮箱验证即可。</p><h2 id="第二步：下载-Claude-客户端"><a href="#第二步：下载-Claude-客户端" class="headerlink" title="第二步：下载 Claude 客户端"></a>第二步：下载 Claude 客户端</h2><p>根据你的操作系统选择对应版本下载。Claude 支持 Windows、macOS、iOS 和 Android 平台。</p><h2 id="第三步：安装和登录"><a href="#第三步：安装和登录" class="headerlink" title="第三步：安装和登录"></a>第三步：安装和登录</h2><p>下载完成后运行安装程序，安装完成后打开 Claude，使用你的账号登录即可开始使用。</p>]]></content:encoded>
       
       
-      <category domain="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
+      <category domain="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/">AI教程</category>
       
-      <category domain="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/">Claude教程</category>
-      
-      
-      <category domain="https://peter-create-ai.github.io/tags/Claude/">Claude</category>
-      
-      <category domain="https://peter-create-ai.github.io/tags/AI%E6%95%99%E7%A8%8B/">AI教程</category>
+      <category domain="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/">Claude教程</category>
       
       
-      <comments>https://peter-create-ai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/#disqus_thread</comments>
+      <category domain="https://ryancoreai.github.io/tags/Claude/">Claude</category>
+      
+      <category domain="https://ryancoreai.github.io/tags/AI%E6%95%99%E7%A8%8B/">AI教程</category>
+      
+      
+      <comments>https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://peter-create-ai.github.io/2026/05/07/hello-world/</link>
-      <guid>https://peter-create-ai.github.io/2026/05/07/hello-world/</guid>
+      <link>https://ryancoreai.github.io/2026/05/07/hello-world/</link>
+      <guid>https://ryancoreai.github.io/2026/05/07/hello-world/</guid>
       <pubDate>Thu, 07 May 2026 08:25:30 GMT</pubDate>
       
         
@@ -121,14 +121,14 @@
       
       
       
-      <comments>https://peter-create-ai.github.io/2026/05/07/hello-world/#disqus_thread</comments>
+      <comments>https://ryancoreai.github.io/2026/05/07/hello-world/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>我的第一篇博客</title>
-      <link>https://peter-create-ai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</link>
-      <guid>https://peter-create-ai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</guid>
+      <link>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</link>
+      <guid>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</guid>
       <pubDate>Wed, 07 May 2025 08:00:00 GMT</pubDate>
       
         
@@ -141,13 +141,13 @@
       <content:encoded><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>时光辗转，终于拥有了属于自己的一方小天地 —— 这个简简单单的个人博客，算是我在网络世界里留下的专属角落。不用迎合繁杂的社交节奏，不用刻意伪装情绪，只想在这里记录生活、沉淀心情，把日常里的点滴感悟、细碎美好都好好珍藏。<br>一路走来，总觉得生活需要一个可以安放思绪的地方。平日里忙碌于日常琐事，被学习和生活的节奏推着往前走，很多瞬间的感慨、突然冒出的想法，往往转瞬即逝，来不及细细回味。而搭建这个博客，于我而言，不仅是一次尝试新鲜事物的体验，更是给自己留一份慢下来的底气。在这里，我可以随心所欲写下所见所闻、所思所感，不用拘泥格式，不用纠结文笔，只以最真实的状态与自己对话。<br>生活本就是由无数平凡的瞬间拼凑而成。清晨推开窗扑面而来的清风，午后窗边洒落的一缕暖阳，傍晚天边渐变的晚霞，还有闲暇时安静看书、放空发呆的时光，这些看似微不足道的小美好，其实都是生活赠予我们的温柔。往后我想在博客里，记录下这些温柔片刻：偶尔是生活里的小确幸，偶尔是成长路上的小迷茫，偶尔是读到好书的心得体会，也会分享一些日常感悟与细碎心事。<br>人总要学会和自己独处，学会在喧嚣中守住内心的平静。现在的我们总是被短视频、碎片化信息包围，很难静下心来好好沉淀。而写作与记录，是最好的沉淀方式。敲下文字的过程，也是梳理情绪、理清思绪的过程，那些想不通的烦恼、藏在心底的情绪，落笔之后往往会豁然开朗。<br>这个博客没有华丽的修饰，没有刻意的迎合，只有最真实的自我表达。往后的日子里，我会坚持在这里更新，把生活的烟火气、成长的点点滴滴都一一记录。不求有人刻意驻足，只愿多年后回头翻看，能清晰记得此刻的心境与时光。<br>也愿每一个偶然闯入这里的人，都能在文字里找到一丝共鸣，卸下疲惫，收获一份平静与治愈。往后余生，以文字为伴，以时光为笺，慢慢记录，慢慢成长，不负生活，不负自己。</p>]]></content:encoded>
       
       
-      <category domain="https://peter-create-ai.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      <category domain="https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
       
       
-      <category domain="https://peter-create-ai.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <category domain="https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
       
       
-      <comments>https://peter-create-ai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/#disqus_thread</comments>
+      <comments>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/#disqus_thread</comments>
       
     </item>
     

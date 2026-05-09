@@ -3,11 +3,11 @@
   <title>Ryan&#39;s Blog</title>
   
   <subtitle>Live and Learn</subtitle>
-  <link href="https://peter-create-ai.github.io/atom.xml" rel="self"/>
+  <link href="https://ryancoreai.github.io/atom.xml" rel="self"/>
   
-  <link href="https://peter-create-ai.github.io/"/>
+  <link href="https://ryancoreai.github.io/"/>
   <updated>2026-05-09T11:56:26.435Z</updated>
-  <id>https://peter-create-ai.github.io/</id>
+  <id>https://ryancoreai.github.io/</id>
   
   <author>
     <name>Ryan Guo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>AI 时代的学习方法</title>
-    <link href="https://peter-create-ai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/"/>
-    <id>https://peter-create-ai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</id>
+    <link href="https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/"/>
+    <id>https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</id>
     <published>2026-05-09T00:00:00.000Z</published>
     <updated>2026-05-09T11:56:26.435Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="AI教程" scheme="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
+    <category term="AI教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="AI" scheme="https://peter-create-ai.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://ryancoreai.github.io/tags/AI/"/>
     
-    <category term="学习方法" scheme="https://peter-create-ai.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    <category term="学习方法" scheme="https://ryancoreai.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>ChatGPT 从入门到精通</title>
-    <link href="https://peter-create-ai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/"/>
-    <id>https://peter-create-ai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</id>
+    <link href="https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/"/>
+    <id>https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</id>
     <published>2026-05-08T06:00:00.000Z</published>
     <updated>2026-05-09T11:56:14.965Z</updated>
     
@@ -61,21 +61,21 @@
     
     
     
-    <category term="AI教程" scheme="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
+    <category term="AI教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT教程" scheme="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/"/>
+    <category term="ChatGPT教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="ChatGPT" scheme="https://peter-create-ai.github.io/tags/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://ryancoreai.github.io/tags/ChatGPT/"/>
     
-    <category term="OpenAI" scheme="https://peter-create-ai.github.io/tags/OpenAI/"/>
+    <category term="OpenAI" scheme="https://ryancoreai.github.io/tags/OpenAI/"/>
     
   </entry>
   
   <entry>
     <title>Claude 保姆级下载和安装教程</title>
-    <link href="https://peter-create-ai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/"/>
-    <id>https://peter-create-ai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</id>
+    <link href="https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/"/>
+    <id>https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</id>
     <published>2026-05-08T02:00:00.000Z</published>
     <updated>2026-05-09T11:56:03.998Z</updated>
     
@@ -90,21 +90,21 @@
     
     
     
-    <category term="AI教程" scheme="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
+    <category term="AI教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Claude教程" scheme="https://peter-create-ai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/"/>
+    <category term="Claude教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Claude" scheme="https://peter-create-ai.github.io/tags/Claude/"/>
+    <category term="Claude" scheme="https://ryancoreai.github.io/tags/Claude/"/>
     
-    <category term="AI教程" scheme="https://peter-create-ai.github.io/tags/AI%E6%95%99%E7%A8%8B/"/>
+    <category term="AI教程" scheme="https://ryancoreai.github.io/tags/AI%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://peter-create-ai.github.io/2026/05/07/hello-world/"/>
-    <id>https://peter-create-ai.github.io/2026/05/07/hello-world/</id>
+    <link href="https://ryancoreai.github.io/2026/05/07/hello-world/"/>
+    <id>https://ryancoreai.github.io/2026/05/07/hello-world/</id>
     <published>2026-05-07T08:25:30.787Z</published>
     <updated>2026-05-07T08:25:30.787Z</updated>
     
@@ -123,8 +123,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://peter-create-ai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/"/>
-    <id>https://peter-create-ai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</id>
+    <link href="https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/"/>
+    <id>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</id>
     <published>2025-05-07T08:00:00.000Z</published>
     <updated>2026-05-07T14:11:49.157Z</updated>
     
@@ -138,10 +138,10 @@
     
     
     
-    <category term="生活" scheme="https://peter-create-ai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="随笔" scheme="https://peter-create-ai.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
