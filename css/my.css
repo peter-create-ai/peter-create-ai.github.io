@@ -13,8 +13,15 @@
 }
 
 /* 绿色主题替换为黑色 - 导航栏 */
-nav, nav.bg-color, #headNav {
+nav, nav.bg-color, #headNav, .bg-color {
     background-color: #000000 !important;
+    background-image: none !important;
+}
+
+/* 深色模式下的导航栏也是黑色 */
+body.DarkMode .bg-color {
+    background-color: #000000 !important;
+    background-image: none !important;
 }
 
 /* 引用块 */
