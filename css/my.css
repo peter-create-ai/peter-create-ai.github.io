@@ -1,5 +1,44 @@
 /* Here is your custom css styles. */
 
+/* 把所有绿色主题改成浅蓝色 */
+.bg-color, nav, .nav-color, .nav-wrapper {
+    background-color: #2196f3 !important;
+}
+
+/* 按钮颜色 */
+.btn, .btn-large, .btn-small {
+    background-color: #2196f3 !important;
+}
+
+.btn:hover, .btn-large:hover, .btn-small:hover {
+    background-color: #1976d2 !important;
+}
+
+/* 链接和文字颜色 */
+a, .article-tag .chip, .post-cate a, #artDetail .post-cate a {
+    color: #2196f3 !important;
+}
+
+article a:hover, .article-tag .chip:hover {
+    color: #1976d2 !important;
+}
+
+/* 引用块 */
+blockquote {
+    border-left: 5px solid #2196f3 !important;
+    background-color: rgba(33, 150, 243, 0.1) !important;
+}
+
+/* 标签悬停颜色 */
+#artDetail .tag_share .article-tag .chip:hover {
+    background: #2196f3 !important;
+}
+
+/* 目录高亮 */
+#toc-content .toc-link:hover, #toc-content .is-active-link {
+    color: #2196f3 !important;
+}
+
 /* 紫色渐变遮罩 */
 .bg-cover.theme-purple:after {
     background: rgba(103, 58, 183, 0.7) !important;
