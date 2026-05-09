@@ -1,23 +1,13 @@
 /* Here is your custom css styles. */
 
-/* 禁用彩虹渐变动画，固定背景颜色 */
-.bg-cover:after {
-    -webkit-animation: none !important;
-    animation: none !important;
-    /* 固定一个紫色渐变，类似 banner/0.jpg 的色调 */
+/* 紫色渐变遮罩 */
+.bg-cover.theme-purple:after {
     background: rgba(103, 58, 183, 0.7) !important;
     background: linear-gradient(45deg, rgba(103, 58, 183, 0.75) 0%, rgba(103, 58, 183, 0.6) 100%) !important;
 }
 
-/* 优化加载速度：禁用AOS滚动动画，直接显示元素 */
-[data-aos] {
-    opacity: 1 !important;
-    transform: none !important;
-    transition: none !important;
+/* 粉红色渐变遮罩 */
+.bg-cover.theme-pink:after {
+    background: rgba(233, 30, 99, 0.7) !important;
+    background: linear-gradient(45deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.6) 100%) !important;
 }
-
-/* 优化加载速度：禁用不必要的过渡动画 */
-* {
-    -webkit-font-smoothing: antialiased;
-}
-
