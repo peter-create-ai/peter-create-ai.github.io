@@ -133,14 +133,14 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/tags/Claude/</loc>
+    <loc>https://ryancoreai.github.io/tags/ChatGPT/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/tags/AI%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ryancoreai.github.io/tags/OpenAI/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -175,21 +175,21 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/tags/ChatGPT/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/tags/OpenAI/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryancoreai.github.io/tags/Claude/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryancoreai.github.io/tags/AI%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,7 +205,7 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
