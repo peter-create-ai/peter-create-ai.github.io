@@ -38,33 +38,6 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/2026/05/09/ai-shi-dai-de-xue-xi-fang-fa/</loc>
-    
-    <lastmod>2026-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/2026/05/08/chatgpt-cong-ru-men-dao-jing-tong/</loc>
-    
-    <lastmod>2026-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/2026/05/08/claude-bao-mu-ji-xia-zai-he-an-zhuang/</loc>
-    
-    <lastmod>2026-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</loc>
     
     <lastmod>2026-05-10</lastmod>
@@ -119,20 +92,6 @@
 
   
   <url>
-    <loc>https://ryancoreai.github.io/tags/AI/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ryancoreai.github.io/tags/Claude-Code/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -161,28 +120,7 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/tags/Claude/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/tags/AI%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/tags/ChatGPT/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/tags/OpenAI/</loc>
+    <loc>https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -216,13 +154,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -233,14 +164,7 @@
   </url>
   
   <url>
-    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/Claude%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/ChatGPT%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -248,13 +172,6 @@
   
   <url>
     <loc>https://ryancoreai.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
