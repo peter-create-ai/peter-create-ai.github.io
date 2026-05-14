@@ -3,11 +3,11 @@
   <title>Ryan&#39;s Blog</title>
   
   <subtitle>Live and Learn</subtitle>
-  <link href="https://yanxai.com/atom.xml" rel="self"/>
+  <link href="https://ryancoreai.github.io/atom.xml" rel="self"/>
   
-  <link href="https://yanxai.com/"/>
+  <link href="https://ryancoreai.github.io/"/>
   <updated>2026-05-13T15:53:32.343Z</updated>
-  <id>https://yanxai.com/</id>
+  <id>https://ryancoreai.github.io/</id>
   
   <author>
     <name>Ryan Guo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://yanxai.com/2026/05/13/ai-shi-dai-si-kao-de-wen-zhang/"/>
-    <id>https://yanxai.com/2026/05/13/ai-shi-dai-si-kao-de-wen-zhang/</id>
+    <link href="https://ryancoreai.github.io/2026/05/13/ai-shi-dai-si-kao-de-wen-zhang/"/>
+    <id>https://ryancoreai.github.io/2026/05/13/ai-shi-dai-si-kao-de-wen-zhang/</id>
     <published>2026-05-13T15:53:32.341Z</published>
     <updated>2026-05-13T15:53:32.343Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>AI时代的思考</title>
-    <link href="https://yanxai.com/2026/05/13/ai-shi-dai-de-si-kao/"/>
-    <id>https://yanxai.com/2026/05/13/ai-shi-dai-de-si-kao/</id>
+    <link href="https://ryancoreai.github.io/2026/05/13/ai-shi-dai-de-si-kao/"/>
+    <id>https://ryancoreai.github.io/2026/05/13/ai-shi-dai-de-si-kao/</id>
     <published>2026-05-13T04:00:00.000Z</published>
     <updated>2026-05-13T15:59:15.901Z</updated>
     
@@ -52,21 +52,21 @@
     
     
     
-    <category term="随笔" scheme="https://yanxai.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://ryancoreai.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="AI" scheme="https://yanxai.com/tags/AI/"/>
+    <category term="AI" scheme="https://ryancoreai.github.io/tags/AI/"/>
     
-    <category term="思考" scheme="https://yanxai.com/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="思考" scheme="https://ryancoreai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-    <category term="科技人文" scheme="https://yanxai.com/tags/%E7%A7%91%E6%8A%80%E4%BA%BA%E6%96%87/"/>
+    <category term="科技人文" scheme="https://ryancoreai.github.io/tags/%E7%A7%91%E6%8A%80%E4%BA%BA%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>Claude Code 接入 DeepSeek V4 Pro 保姆级教程</title>
-    <link href="https://yanxai.com/2026/05/10/claude-code-jie-ru-deepseek-v4-pro-bao-mu-ji-jiao-cheng/"/>
-    <id>https://yanxai.com/2026/05/10/claude-code-jie-ru-deepseek-v4-pro-bao-mu-ji-jiao-cheng/</id>
+    <link href="https://ryancoreai.github.io/2026/05/10/claude-code-jie-ru-deepseek-v4-pro-bao-mu-ji-jiao-cheng/"/>
+    <id>https://ryancoreai.github.io/2026/05/10/claude-code-jie-ru-deepseek-v4-pro-bao-mu-ji-jiao-cheng/</id>
     <published>2026-05-10T08:00:00.000Z</published>
     <updated>2026-05-10T15:16:52.362Z</updated>
     
@@ -77,23 +77,23 @@
     
     
     
-    <category term="AI教程" scheme="https://yanxai.com/categories/AI%E6%95%99%E7%A8%8B/"/>
+    <category term="AI教程" scheme="https://ryancoreai.github.io/categories/AI%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Claude Code" scheme="https://yanxai.com/tags/Claude-Code/"/>
+    <category term="Claude Code" scheme="https://ryancoreai.github.io/tags/Claude-Code/"/>
     
-    <category term="DeepSeek" scheme="https://yanxai.com/tags/DeepSeek/"/>
+    <category term="DeepSeek" scheme="https://ryancoreai.github.io/tags/DeepSeek/"/>
     
-    <category term="AI编程" scheme="https://yanxai.com/tags/AI%E7%BC%96%E7%A8%8B/"/>
+    <category term="AI编程" scheme="https://ryancoreai.github.io/tags/AI%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="开发工具" scheme="https://yanxai.com/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    <category term="开发工具" scheme="https://ryancoreai.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>Hexo + Matery 主题从零搭建个人博客完整教程（GitHub Pages 部署 + 美化优化全流程）</title>
-    <link href="https://yanxai.com/2026/05/10/hexo-matery-blog-jian-zhan-jiao-cheng/"/>
-    <id>https://yanxai.com/2026/05/10/hexo-matery-blog-jian-zhan-jiao-cheng/</id>
+    <link href="https://ryancoreai.github.io/2026/05/10/hexo-matery-blog-jian-zhan-jiao-cheng/"/>
+    <id>https://ryancoreai.github.io/2026/05/10/hexo-matery-blog-jian-zhan-jiao-cheng/</id>
     <published>2026-05-10T04:00:00.000Z</published>
     <updated>2026-05-10T07:56:46.263Z</updated>
     
@@ -104,23 +104,23 @@
     
     
     
-    <category term="个人博客" scheme="https://yanxai.com/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <category term="个人博客" scheme="https://ryancoreai.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="Hexo" scheme="https://yanxai.com/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://ryancoreai.github.io/tags/Hexo/"/>
     
-    <category term="GitHub Pages" scheme="https://yanxai.com/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://ryancoreai.github.io/tags/GitHub-Pages/"/>
     
-    <category term="博客建站" scheme="https://yanxai.com/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
+    <category term="博客建站" scheme="https://ryancoreai.github.io/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/"/>
     
-    <category term="Matery" scheme="https://yanxai.com/tags/Matery/"/>
+    <category term="Matery" scheme="https://ryancoreai.github.io/tags/Matery/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://yanxai.com/2025/05/07/wo-de-di-yi-pian-bo-ke/"/>
-    <id>https://yanxai.com/2025/05/07/wo-de-di-yi-pian-bo-ke/</id>
+    <link href="https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/"/>
+    <id>https://ryancoreai.github.io/2025/05/07/wo-de-di-yi-pian-bo-ke/</id>
     <published>2025-05-07T08:00:00.000Z</published>
     <updated>2026-05-10T07:56:02.109Z</updated>
     
@@ -131,10 +131,10 @@
     
     
     
-    <category term="生活" scheme="https://yanxai.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://ryancoreai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="随笔" scheme="https://yanxai.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://ryancoreai.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
